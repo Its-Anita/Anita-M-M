@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on [A travelogue experience- a simple place where I document journeys, photos and memories](http://comingsoon)
 * 🧠  I'm currently learning -🌐\*\* Web Development\*\* - turning tea 🍵 into CSS & JS - \*\* Git & GitHub \*\* - slowly getting the concepts of it -🍳 \*\* New recipes and life hacks \*\*- am a sucker for creativity 💡and spice in life
 * 👥  I'm looking to collaborate on - Beginner-friendly coding projects (python, Js, C++) - 💼Business and tech tools - Open-source projects where I can learn and grow while contributing
-* 💬  Ask me about Ask me about - My love for travelling✈️ and new experiences ✨ -👩‍🍳Cooking experiments & recipes - Anything artistic though not am no artist😂 -💸Making money and entrepreneurship - My never ending curiosity for thrilling experiences🍃
+* 💬  Ask me about - My love for travelling✈️ and new experiences ✨ -👩‍🍳Cooking experiments & recipes - Anything artistic though not am no artist😂 -💸Making money and entrepreneurship - My never ending curiosity for thrilling experiences🍃
 
 ### Badges
 
